@@ -1,33 +1,41 @@
-1. Erstellen eines GitHub Kontos
-2. Bestätigen meiner Email Adresse
-3. Mein Profil vervollständigen
-4. GitHub Guide gestartet
-4.1 Create Repo
-4.1.1 Click +
-4.1.2 Name repository
-4.1.3 Write short description
-4.1.4 Initialize with README
-4.1.5 Create Repo
-4.2 Create Branch
-4.2.1 Goto Repo
-4.2.2 Click dropdown
-4.2.3 Typed readme-edits
-4.2.4 Select new branch from master
-4.3 Make and commit changes
-4.3.1 Click README.md
-4.3.2 Click pencil
-4.3.3 Write text in editor
-4.3.4 Write comment about change
-4.3.5 Click Commit changes
-4.4 Open a Pull Request
-4.4.1 Click Pull Request Tab & new pull request
-4.4.2 Select compare with master
-4.4.3 Checked the file
-4.4.4 Click create pull request
-4.4.5 Give title and description
-4.4.6 Click create pull request (for the last time)
-4.5 Merge pull request
-4.5.1 Click Merge pull request
-4.5.2 COnfirm merge
-4.5.3 Delete branch
-5 Done
+1.      Erstellen eines GitHub Kontos
+
+2.      Bestätigen meiner Email Adresse
+
+3.      Mein Profil vervollständigen
+
+4.      GitHub Guide gestartet
+4.1     Create Repo
+4.1.1   Click +
+4.1.2   Name repository
+4.1.3   Write short description
+4.1.4   Initialize with README
+4.1.5   Create Repo
+
+4.2     Create Branch
+4.2.1   Goto Repo
+4.2.2   Click dropdown
+4.2.3   Typed readme-edits
+4.2.4   Select new branch from master
+
+4.3     Make and commit changes
+4.3.1   Click README.md
+4.3.2   Click pencil
+4.3.3   Write text in editor
+4.3.4   Write comment about change
+4.3.5   Click Commit changes
+
+4.4     Open a Pull Request
+4.4.1   Click Pull Request Tab & new pull request
+4.4.2   Select compare with master
+4.4.3   Checked the file
+4.4.4   Click create pull request
+4.4.5   Give title and description
+4.4.6   Click create pull request (for the last time)
+
+4.5     Merge pull request
+4.5.1   Click Merge pull request
+4.5.2   COnfirm merge
+4.5.3   Delete branch
+
+5       Done
