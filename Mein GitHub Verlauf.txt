@@ -40,7 +40,7 @@
 
 5       Done
 
-6	      Changing this file
+6	Changing this file
 6.1     cd ~/hello-world (changing current directory)
 6.2     git pull (to get most recent versionof the repo)
 6.3     adding lines 42-49 to this file
