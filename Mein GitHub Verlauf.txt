@@ -40,4 +40,10 @@
 
 5       Done
 
-6	Doing cool stuff 2
+6	      Changing this file
+6.1     cd ~/hello-world (changing current directory)
+6.2     git pull (to get most recent versionof the repo)
+6.3     adding lines 42-xx to this file
+6.4     git add * (adding all changed files to the index)
+6.5     git commit -m "Modified File" (Commit the changes)
+6.6     git push (push the commit to the online repo)
