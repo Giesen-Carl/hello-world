@@ -47,3 +47,5 @@
 6.4     git add * (adding all changed files to the index)
 6.5     git commit -m "Modified File" (Commit the changes)
 6.6     git push (push the commit to the online repo)
+
+7 	Testing how the merging works with git kraken
