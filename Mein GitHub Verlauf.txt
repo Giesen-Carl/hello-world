@@ -46,4 +46,10 @@
 6.3     adding lines 42-49 to this file
 6.4     git add * (adding all changed files to the index)
 6.5     git commit -m "Modified File" (Commit the changes)
+<<<<<<< HEAD
 6.6     git push (push the commit to the online repo) 
+=======
+6.6     git push (push the commit to the online repo)
+
+7 	Testing how the merging works with git kraken
+>>>>>>> ba8b9c543c77cdebb34ab509e73dca5da1b15f92
